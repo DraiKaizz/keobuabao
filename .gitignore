@@ -68,3 +68,10 @@ build/
 dist/
 .cache/
 
+
+#node_modules/
+.expo/
+.vscode/
+*.log
+*.env
+*.tmp
